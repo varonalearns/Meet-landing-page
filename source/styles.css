@@ -1,0 +1,37 @@
+/* ------------------------------ Mobile First Design ------------------------------ */
+
+/* -------------------- 
+    Variables
+---------------------*/
+:root {
+    /* Primary colors */
+    --clr-prim-1: hsl(192, 37%, 48%);
+    --clr-prim-2: hsl(268, 34%, 53%);
+    --clr-prim-3: hsl(240, 21%, 20%);
+    --clr-prim-4: hsl(240, 10%, 57%);
+
+    /* Secondary colors */
+    --clr-sec-1: hsl(192, 90%, 77%);
+    --clr-sec-2: hsl(268,100%,86%);
+    --clr-sec-3: hsl(0, 0%, 98%);
+
+    /* Fonts */
+    --main-font: 'Red Hat Display', sans-serif;
+}
+
+/* -------------------- 
+    Global Styles
+---------------------*/
+*, ::before, ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: var(--main-font);
+    font-size: 18px;
+    text-align: center;
+}
+/* -------------------- 
+    Class Styles
+---------------------*/
