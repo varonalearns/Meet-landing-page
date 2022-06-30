@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/varonalearns/Meet-landing-page)
+- Live Site URL: [Vercel Live Site](https://meet-landing-page-j3533lgx7-varonalearns.vercel.app/)
 
 ## My process
 
@@ -65,4 +65,4 @@ In the future, I definitely want to work on structuring my projects better and l
 ## Author
 
 - Website - [Evalia Varona](https://www.evaliavarona.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@varonalearns](https://www.frontendmentor.io/profile/varonalearns)
