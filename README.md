@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/varonalearns/Meet-landing-page)
-- Live Site URL: [Vercel Live Site](https://meet-landing-page-j3533lgx7-varonalearns.vercel.app/)
+- Live Site URL: [Vercel Live Site](https://meet-landing-page-sandy-xi.vercel.app/)
 
 ## My process
 
